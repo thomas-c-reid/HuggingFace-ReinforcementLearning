@@ -1,0 +1,32 @@
+TO UPLOAD:
+
+GITHUB:
+upload all completed HUGGINGFACE challenges to Github
+
+HUGGINGFACE:
+deepRL
+- unit-1 - basic lunarLander using stableBaselines (DONE)
+- unit-2 - frozen lake - Q-learning (NOT ASSESSED)
+	 - autonomous taxi - Q-learning ()
+- unit-3 - spaceInvaders - deep-Q-Learning ()
+- unit-4 - cartpole - policy gradient ()
+	 - pixelCopter  - policy gradient ()
+- unit-5 - pyrimids - unity ML agent ()
+	 - snowballTarget - unity ML agent ()
+- unit-6 - panda-gym - actor critic ()
+- unit-7 - AI-football - multi-agent systems ()
+- unit-8 - lunarLander - PPO ()
+	 - DOOM - PPO ()
+
+GOAL: 1/11
+
+
+KAGGLE:
+competitions to do:
+(DONE) - titanic - prediction task
+spaceship titanic - prediction
+digit recogniser - Computer vision
+connect-X - reinforcement learning to beat 
+House-price-regression - prediction
+
+GOAL: 1/5
